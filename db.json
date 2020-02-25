@@ -1,8 +1,13 @@
 {
   "orders":[
-    {"id":1,"company":"Supraten","manager":{"name":"Manager Name 1"},"url":"/url/file.xls"},
-    {"id":2,"company":"Piramida Market","manager":{"name":"Manager Name 2"},"url":"/url/file.xls"},
-    {"id":3,"company":"Keramin","manager":{"name":"Manager Name 1"},"url":"/url/file.xls"}
+    {"id":1,"company":"Supraten","manager":"Lungu Ion","fileUrl":"/url/file.xls", "sum": 1000.50},
+    {"id":2,"company":"Piramida","manager":"Turcanu Ion","fileUrl":"/url/file.xls", "sum": 5010.50},
+    {"id":3,"company":"Keramin","manager":"Cenusa Andrei","fileUrl":"/url/file.xls", "sum": 10050.50},
+    {"id":4,"company":"Supraten","manager":"Lungu Ion","fileUrl":"/url/file.xls", "sum": 10050.50},
+    {"id":5,"company":"Keramin","manager":"Turcanu Ion","fileUrl":"/url/file.xls", "sum": 10050.50},
+    {"id":6,"company":"Intengo","manager":"Cenusa Andrei","fileUrl":"/url/file.xls", "sum": 10050.50},
+    {"id":7,"company":"NetInfo","manager":"Lungu Ion","fileUrl":"/url/file.xls", "sum": 10050.50},
+    {"id":8,"company":"Supraten","manager":"Cenusa Andrei","fileUrl":"/url/file.xls", "sum": 10050.50}
   ],
   "users": [
     {
