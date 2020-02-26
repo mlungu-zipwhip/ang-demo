@@ -17,10 +17,7 @@
     {"id":15,"company":"Piramida","manager":"Cenusa Andrei","fileUrl":"template.xlsx", "sum": 14050.50},
     {"id":16,"company":"Keramin","manager":"Cenusa Andrei","fileUrl":"template.xlsx", "sum": 50050.50}
   ],
-  "settings": [
-    {"ordersCount": 16},
-    {"additional": 15}
-  ],
+  "settings": [ { "ordersCount": 16 } ],
   "users": [
     {
       "id": 1,
