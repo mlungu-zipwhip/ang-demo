@@ -17,7 +17,7 @@
     {"id":15,"company":"Piramida","manager":"Cenusa Andrei","fileUrl":"20200225_141243_Comanda-Victor Gilca-A- Midacons.xlsx", "sum": 14050.50},
     {"id":16,"company":"Keramin","manager":"Cenusa Andrei","fileUrl":"20200225_141243_Comanda-Victor Gilca-A- Midacons.xlsx", "sum": 50050.50}
   ],
-  "ordersCount": 16,
+  "ordersCount": "16",
   "users": [
     {
       "id": 1,
