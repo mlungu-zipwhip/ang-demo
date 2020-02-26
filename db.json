@@ -18,7 +18,8 @@
     {"id":16,"company":"Keramin","manager":"Cenusa Andrei","fileUrl":"template.xlsx", "sum": 50050.50}
   ],
   "settings": [
-    16
+    {"ordersCount": 16},
+    {"additional": 15}
   ],
   "users": [
     {
